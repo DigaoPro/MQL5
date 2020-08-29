@@ -1,4 +1,19 @@
 {
-    "files.autoSave": "onWindowChange",
-    "C_Cpp.errorSquiggles": "Disabled"
+    //"files.autoSave": "onWindowChange",
+    "git.ignoreLegacyWarning": true,
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.activityBar.visible": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.renderIndentGuides": false,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.mqh": "cpp",
+        "*.mq4": "cpp",
+        "*.mq5": "cpp"
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "explorer.confirmDelete": false
 }
