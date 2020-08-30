@@ -44,7 +44,7 @@
             },
             "command": "hh.exe",
             "args": [
-                "mk:@MSITStore:C:\\Users\\samue\\AppData\\Roaming\\MetaQuotes\\Terminal\\Help\\mql5.chm::/${selectedText}.htm"
+                "mk:@MSITStore:C:\\Users\\samue\\AppData\\Roaming\\MetaQuotes\\Terminal\\Help\\mql5_portuguese.chm::/${selectedText}.htm"
             ]
         }
     ]

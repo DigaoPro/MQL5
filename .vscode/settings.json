@@ -8,12 +8,13 @@
     "editor.renderWhitespace": "none",
     "editor.renderControlCharacters": false,
     "editor.renderIndentGuides": false,
-    "C_Cpp.errorSquiggles": "Disabled",
+    //"C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "*.mqh": "cpp",
         "*.mq4": "cpp",
         "*.mq5": "cpp"
     },
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "AllAutocomplete.showCurrentDocument": true
 }
